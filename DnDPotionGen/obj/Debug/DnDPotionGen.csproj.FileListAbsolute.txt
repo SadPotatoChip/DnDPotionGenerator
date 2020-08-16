@@ -1,0 +1,9 @@
+D:\dotnetproj\DnDPotionGen\DnDPotionGen\bin\Debug\DnDPotionGen.exe.config
+D:\dotnetproj\DnDPotionGen\DnDPotionGen\bin\Debug\DnDPotionGen.exe
+D:\dotnetproj\DnDPotionGen\DnDPotionGen\bin\Debug\DnDPotionGen.pdb
+D:\dotnetproj\DnDPotionGen\DnDPotionGen\obj\Debug\DnDPotionGen.csprojAssemblyReference.cache
+D:\dotnetproj\DnDPotionGen\DnDPotionGen\obj\Debug\DnDPotionGen.Properties.Resources.resources
+D:\dotnetproj\DnDPotionGen\DnDPotionGen\obj\Debug\DnDPotionGen.csproj.GenerateResource.cache
+D:\dotnetproj\DnDPotionGen\DnDPotionGen\obj\Debug\DnDPotionGen.exe
+D:\dotnetproj\DnDPotionGen\DnDPotionGen\obj\Debug\DnDPotionGen.pdb
+D:\dotnetproj\DnDPotionGen\DnDPotionGen\obj\Debug\DnDPotionGen.Form1.resources
